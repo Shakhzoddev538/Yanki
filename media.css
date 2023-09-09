@@ -1,0 +1,60 @@
+@media (max-width: 375px) {
+    .container {
+        width: 335px;
+    }
+
+    .hesder_left {
+        display: none;
+    }
+
+    .promo {
+        background: url(./img/Yanki\ \(51\)\ 1.png) no-repeat center / cover;
+    }
+    .hesder_center svg {
+        width: 79px;
+        height: 20px;
+    }
+
+    .icon {
+        display: block;
+    }
+
+    .one {
+        display: none;
+    }
+
+    .header_text h1 {
+        font-size: 32px;
+    }
+
+    #two {
+        display: none;
+    }
+
+    #tree {
+        display: none;
+    }
+
+    .catalog_elem {
+        width: 165px; 
+    }
+
+    .button {
+        width: 165px;
+        height: 35px;
+    }
+
+    .form_box {
+        width: 335px;
+    }
+
+    .form_box h1 {
+        font-size: 24px;
+    }
+
+    .link_box {
+        display: flex;
+        align-items: start;
+        flex-direction: column;
+    }
+}
